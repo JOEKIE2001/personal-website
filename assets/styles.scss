@@ -52,3 +52,26 @@
 .min-height-full {
   min-height: 100vh;
 }
+
+/* Body text */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  color: #003366;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+/* Bold text */
+strong, b {
+  color: #b22222; /* dark red for emphasis */
+  font-weight: 600;
+}
