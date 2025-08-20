@@ -4,6 +4,9 @@ description: NYU PhD Student • Architected Materials & Structures •
 layout: sidebar
 style: light
 
+url: "https://joekie2001.github.io"
+baseurl: "/personal-website"
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
